@@ -20,6 +20,7 @@ namespace SimpleCommandPattern.Classes.Commands
         }
         public void Undo()
         {
+            stereo.On();
         }
     }
 }

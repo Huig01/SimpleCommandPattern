@@ -23,6 +23,7 @@ namespace SimpleCommandPattern.Classes.Commands
 
         public void Undo()
         {
+            
         }
     }
 }
